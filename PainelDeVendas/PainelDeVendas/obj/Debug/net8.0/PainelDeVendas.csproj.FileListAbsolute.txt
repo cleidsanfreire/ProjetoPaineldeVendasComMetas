@@ -1,0 +1,14 @@
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\bin\Debug\net8.0\PainelDeVendas.exe
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\bin\Debug\net8.0\PainelDeVendas.deps.json
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\bin\Debug\net8.0\PainelDeVendas.runtimeconfig.json
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\bin\Debug\net8.0\PainelDeVendas.dll
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\bin\Debug\net8.0\PainelDeVendas.pdb
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.AssemblyInfoInputs.cache
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.AssemblyInfo.cs
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.csproj.CoreCompileInputs.cache
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.dll
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\refint\PainelDeVendas.dll
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.pdb
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.genruntimeconfig.cache
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\ref\PainelDeVendas.dll
