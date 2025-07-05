@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PainelDeVendas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36b86336ba296431e7446fdf1ea68f8345ef9818")]
 [assembly: System.Reflection.AssemblyProductAttribute("PainelDeVendas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PainelDeVendas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

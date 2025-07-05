@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{1586318F-A810-4E4A-BAE6-3F6E1089C6AA}|PainelDeVendas\\PainelDeVendas.csproj|solutionrelative:paineldevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1586318F-A810-4E4A-BAE6-3F6E1089C6AA}|PainelDeVendas\\PainelDeVendas.csproj|c:\\users\\loock\\visualstudioprojetos\\projetopaineldevendascommetas\\paineldevendas\\paineldevendas\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1586318F-A810-4E4A-BAE6-3F6E1089C6AA}|PainelDeVendas\\PainelDeVendas.csproj|solutionrelative:paineldevendas\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1586318F-A810-4E4A-BAE6-3F6E1089C6AA}|PainelDeVendas\\PainelDeVendas.csproj|c:\\users\\loock\\visualstudioprojetos\\projetopaineldevendascommetas\\paineldevendas\\paineldevendas\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1586318F-A810-4E4A-BAE6-3F6E1089C6AA}|PainelDeVendas\\PainelDeVendas.csproj|solutionrelative:paineldevendas\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\ProjetoPaineldeVendasComMetas\\PainelDeVendas\\PainelDeVendas\\Venda.cs",
+              "RelativeDocumentMoniker": "PainelDeVendas\\Venda.cs",
+              "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\ProjetoPaineldeVendasComMetas\\PainelDeVendas\\PainelDeVendas\\Venda.cs",
+              "RelativeToolTip": "PainelDeVendas\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T00:07:07.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\loock\\VisualStudioProjetos\\ProjetoPaineldeVendasComMetas\\PainelDeVendas\\PainelDeVendas\\Produto.cs",
               "RelativeDocumentMoniker": "PainelDeVendas\\Produto.cs",
               "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\ProjetoPaineldeVendasComMetas\\PainelDeVendas\\PainelDeVendas\\Produto.cs",
               "RelativeToolTip": "PainelDeVendas\\Produto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T16:35:50.138Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "PainelDeVendas\\Program.cs",
               "ToolTip": "C:\\Users\\loock\\VisualStudioProjetos\\ProjetoPaineldeVendasComMetas\\PainelDeVendas\\PainelDeVendas\\Program.cs",
               "RelativeToolTip": "PainelDeVendas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T16:35:33.471Z",
               "EditorCaption": ""

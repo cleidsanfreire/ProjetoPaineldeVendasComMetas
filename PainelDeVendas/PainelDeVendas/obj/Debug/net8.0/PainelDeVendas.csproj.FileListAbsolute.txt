@@ -12,3 +12,4 @@ C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas
 C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.pdb
 C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.genruntimeconfig.cache
 C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\ref\PainelDeVendas.dll
+C:\Users\loock\VisualStudioProjetos\ProjetoPaineldeVendasComMetas\PainelDeVendas\PainelDeVendas\obj\Debug\net8.0\PainelDeVendas.sourcelink.json
